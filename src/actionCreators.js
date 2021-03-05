@@ -308,7 +308,7 @@ const getFavoriteMovies = (tokenUserId) =>{
 
 const deleteMovie = (movie, tokenUserId) =>{
   return dispatch => {
-    return axios.get("https://movies-mysql-backend.herokuapp.com/movies/"+movie._id+"/delete",{
+    return axios.get("https://movies-mysql-backend.herokuapp.com/movies/"+movie.id+"/delete",{
       headers: { 
         'Authorization': tokenUserId
       } 
