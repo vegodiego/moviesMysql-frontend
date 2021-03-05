@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moviesMysql-frontend/static/css/main.09ad1d04.chunk.css",
+    "main.js": "/moviesMysql-frontend/static/js/main.f35ddda9.chunk.js",
+    "main.js.map": "/moviesMysql-frontend/static/js/main.f35ddda9.chunk.js.map",
+    "runtime-main.js": "/moviesMysql-frontend/static/js/runtime-main.7b4edb4a.js",
+    "runtime-main.js.map": "/moviesMysql-frontend/static/js/runtime-main.7b4edb4a.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/moviesMysql-frontend/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9cca68d6.chunk.js": "/moviesMysql-frontend/static/js/2.9cca68d6.chunk.js",
+    "static/js/2.9cca68d6.chunk.js.map": "/moviesMysql-frontend/static/js/2.9cca68d6.chunk.js.map",
+    "index.html": "/moviesMysql-frontend/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/moviesMysql-frontend/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.09ad1d04.chunk.css.map": "/moviesMysql-frontend/static/css/main.09ad1d04.chunk.css.map",
+    "static/js/2.9cca68d6.chunk.js.LICENSE.txt": "/moviesMysql-frontend/static/js/2.9cca68d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b4edb4a.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.9cca68d6.chunk.js",
+    "static/css/main.09ad1d04.chunk.css",
+    "static/js/main.f35ddda9.chunk.js"
+  ]
+}
